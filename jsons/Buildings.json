@@ -6,10 +6,10 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
-		             "[+1 Food] in cities on [non-[rough Terrain]] tiles",
-			     "[-1 Food] in cities on [non-[open Terrain]] tiles",
+		             "[+1 Food] in cities on [non-[Rough terrain]] tiles",
+			     "[-1 Food] in cities on [non-[Open terrain]] tiles",
                              "Will not be displayed in Civilopedia",
 		             "Unsellable",
-		             "Only Available <in [open Terrain] tiles>"]
+		             "Only Available <in [Open terrain] tiles>"]
 	},
 ]
