@@ -1,13 +1,11 @@
 
 [
 	{
-		"name": "Fr33 W0rk3r",
+		"name": "Silly Helper",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
-		    "Limited to [1] per Civilization",
-		    "Unbuildable <for [AI player] Civilizations>",
-		    "Free [Worker] appears <for [Human player] Civilizations>"]
+		             "[1+ Food] in cities on [open Terrain] tiles"]
 	},
 ]
